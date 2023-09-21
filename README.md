@@ -48,6 +48,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-Your Name
+Khirasagar Maharana
 GitHub: github.com/Khirasagar
 Email: khirasagar.maharana8100@gmail.com
